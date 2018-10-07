@@ -11,3 +11,7 @@ Completed all exercises in chapter three. The book did not call for a Chapter 3 
 ## Chapter 04
 
 Went ahead and made a branch for Chapter 04.
+
+## Chapter 05
+
+All unit tests and functional tests working.
