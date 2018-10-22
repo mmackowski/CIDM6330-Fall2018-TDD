@@ -19,3 +19,7 @@ All unit tests and functional tests working.
 ## Chapter 06
 
 All tests working correctly; functional tests rolled into manage.py test suite
+
+## Chapter 07
+
+All major refactoring done throughout the chapter; unit and functional tests all passing
