@@ -22,4 +22,4 @@ All tests working correctly; functional tests rolled into manage.py test suite
 
 ## Chapter 07
 
-All major refactoring done throughout the chapter; unit and functional tests all passing
+All major refactoring done throughout the chapter; unit and functional tests all passing. 
